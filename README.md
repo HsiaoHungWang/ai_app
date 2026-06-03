@@ -1,4 +1,4 @@
-# AI App
+# AI API
 
 本專案為 Node.js 應用程式，使用 Microsoft Foundry 的 API。
 
